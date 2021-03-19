@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "home-insurance"
 version = "0.1.0"
-description = "esure take homee task: Home Insurance data https://www.kaggle.com/ycanario/home-insurance"
+description = "Home Insurance data https://www.kaggle.com/ycanario/home-insurance"
 authors = ["kyosek <kyosuke1029@icloud.com>"]
 
 [tool.poetry.dependencies]
